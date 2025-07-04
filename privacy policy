@@ -57,13 +57,10 @@ We collect personal information that you voluntarily provide to us when you regi
 - email addresses  
 - usernames  
 - passwords  
-- upi id  
 - register number of college  
 
 **Sensitive Information.** When necessary, with your consent or as otherwise permitted by applicable law, we process the following categories of sensitive information:  
-- upi id  
-
-**Payment Data.** We may collect data necessary to process your payment if you choose to make purchases, such as your payment instrument number, and the security code associated with your payment instrument. All payment data is handled and stored by upi_pay: ^1.1.0. You may find their privacy notice link(s) here: https://policies.google.com/terms?hl=en.
+- none
 
 **Application Data.** If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:  
 - **Mobile Device Access.** We may request access or permission to certain features from your mobile device, including your mobile device's storage, camera, and other features. If you wish to change our access or permissions, you may do so in your device's settings.  
